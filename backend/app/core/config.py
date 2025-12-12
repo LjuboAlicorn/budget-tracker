@@ -19,7 +19,8 @@ class Settings(BaseSettings):
     CORS_ORIGINS: list[str] = [
         "http://localhost:5173",
         "http://localhost:3000",
-        "https://frontend-klqfirkib-ljubo-alicorns-projects.vercel.app"
+        "https://frontend-klqfirkib-ljubo-alicorns-projects.vercel.app",
+        "https://frontend-hrvs3n4mj-ljubo-alicorns-projects.vercel.app"
     ]
 
     # Gemini AI
